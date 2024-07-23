@@ -1,3 +1,9 @@
+"""
+This file contains the `State` class for representing states in Markov Decision
+Problems.
+"""
+
+
 class State:
     """
     MDP state.

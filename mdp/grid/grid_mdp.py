@@ -1,3 +1,7 @@
+"""
+Implementation of a "Grid-MDP" problem.
+"""
+
 from mdp.state import State
 from mdp.mdp import MDP
 from mdp.grid.direction import directions, NoOp, getPerpDirections

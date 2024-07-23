@@ -1,6 +1,13 @@
+"""
+This file contains the `MDP` class for representing Markov Decision Processes.
+The class implements the Value Iteration algorithm for solving such problems,
+producing its utility map and optimal policy.
+"""
+
+
 class MDP:
     """
-    Markov decision problem.
+    Markov decision process.
     """
 
     def __init__(self, states, gamma=0.99):

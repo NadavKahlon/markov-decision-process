@@ -1,3 +1,7 @@
+"""
+Utilities for representing stepping directions for the "Grid-MDP" problem.
+"""
+
 # a direction is represented a 2D vector and its name
 Up = ((-1, 0), 'Up')
 Right = ((0, 1), 'Right')

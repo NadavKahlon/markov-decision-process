@@ -1,5 +1,5 @@
 """
-Main program: optimizes a policy for a 3X3 grid-MDP with the following reward
+Main program: optimizes a policy for a 3X3 "Grid-MDP" with the following reward
 matrix:
     [[r, -1, +10],
      [-1, -1, -1],
